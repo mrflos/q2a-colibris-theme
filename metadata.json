@@ -1,0 +1,10 @@
+{
+	"name": "Colibris",
+	"description": "Colibris responsive theme, based on the SnowFlat theme",
+	"version": "1.0",
+	"date": "2016-01-14",
+	"author": "Florian Schmitt",
+	"author_uri": "http://www.florian-express.info",
+	"license": "GPLv2",
+	"min_q2a": "1.7"
+}
