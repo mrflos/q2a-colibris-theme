@@ -1,5 +1,5 @@
 # Colibris theme
-A colorful (based on pink and green) theme for question2answer.
+A colorful (based on pink and green) theme for question2answer.  
 It's full width, has icons for the menu, and left sidebar with categories.
 
 ## Installation
