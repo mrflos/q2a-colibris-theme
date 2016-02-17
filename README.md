@@ -9,5 +9,5 @@ It's full width, has icons for the menu, and left sidebar with categories.
 - In the admin section of question2answer, you can now select this theme for mobile and site
 
 ## Credits
-This theme is mostly a fork of the official SnowFlat theme by Q2A Market
-All modifications made by [Florian Schmitt aka mrflos](https://github.com/mrflos)
+This theme is mostly a fork of the official SnowFlat theme by Q2A Market.  
+All other modifications made by [Florian Schmitt aka mrflos](https://github.com/mrflos).  
